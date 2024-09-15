@@ -1,0 +1,406 @@
+[
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_star_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_account.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_bridge_in_forest_1.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_bridge_in_forest_1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_slide_left_to_right.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\slide_left_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_menu_done.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_menu_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_forest_1.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\forest_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_profile_button_slide_top_to_bottom.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\profile_button_slide_top_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_bookmark_filled.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_bookmark_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_orange_purple_gradient.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_orange_purple_gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_slide_right_to_left.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\slide_right_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_night_city_1.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_night_city_1.jpeg"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_button_round_corners.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\button_round_corners.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_round_format_quote_24.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_round_format_quote_24.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_fragment_explore.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\fragment_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_baseline_settings_24.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_forest_1.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_forest_1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_change_background_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\change_background_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_usr_quotes_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\usr_quotes_item.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_bridge_in_forest_2.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_bridge_in_forest_2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_dialog_add_to_collection.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\dialog_add_to_collection.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_delete_red.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_delete_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_white_gradient.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\white_gradient.jpg"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_night_city_1.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\night_city_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_settings_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\settings_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_dark_mountains_1.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\dark_mountains_1.jpg"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_dark_action_bar.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\dark_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_quote_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\quote_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_grey.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_grey.jpg"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_user_account_quotes.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\user_account_quotes.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_search_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\search_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_favorite_filled.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_favorite_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_blue_sky_1.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\blue_sky_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_favorite_empty.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_favorite_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_explore_discover_quotes_layout.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\explore_discover_quotes_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_fragment_collections.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\fragment_collections.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_settings_button_slide_bottom_to_top.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\settings_button_slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\menu\\bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_collection_activity_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\collection_activity_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_settings_background.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\settings_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_arrow_back.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_bridge_in_forest_2.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\bridge_in_forest_2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_user_account.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\user_account.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_fragment_create_quotes.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\fragment_create_quotes.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_orange_purple_gradient.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\orange_purple_gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_profile_button_slide_bottom_to_top.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\profile_button_slide_bottom_to_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_bridge_in_forest_1.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\bridge_in_forest_1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_collection_item.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\collection_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_face.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_face.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_explore.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_explore.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_grey.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\grey.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_activity_forgotten_password.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\activity_forgotten_password.xml"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_white_gradient.jpg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_white_gradient.jpg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_bookmark_empty.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_bookmark_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\anim_settings_button_slide_top_to_bottom.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\anim\\settings_button_slide_top_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_blue_sky_1.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_blue_sky_1.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_rsz_dark_mountains_1.jpeg.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\rsz_dark_mountains_1.jpeg"
+    },
+    {
+        "merged": "com.sforge.quotes.app-debug-49:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.sforge.quotes.app-main-51:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\menu_create_quotes_menu.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\menu\\create_quotes_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_collection_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\collection_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-debug-49:\\layout_fragment_user_profile.xml.flat",
+        "source": "C:\\Users\\adity\\.gradle\\daemon\\8.7\\com.sforge.quotes.app-main-51:\\layout\\fragment_user_profile.xml"
+    }
+]

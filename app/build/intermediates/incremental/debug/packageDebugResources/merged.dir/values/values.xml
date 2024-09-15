@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profileSpinner">
+        <item>Profile</item>
+        <item>Log out</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="calendar_done">#0FC547</color>
+    <color name="calendar_failed">#FF4519</color>
+    <color name="calendar_skip">#000FDB</color>
+    <color name="color_primary">#285AFA</color>
+    <color name="color_primary_variant">#272727</color>
+    <color name="dark_blue">#0606CF</color>
+    <color name="dark_grey">#272727</color>
+    <color name="dark_grey_bg">#121212</color>
+    <color name="dark_on_background">#FFFFFF</color>
+    <color name="dark_on_primary">#000000</color>
+    <color name="dark_on_secondary">#000000</color>
+    <color name="dark_on_surface">#FFFFFF</color>
+    <color name="darker_transparent">#50000000</color>
+    <color name="dynamicSurface">?attr/colorSurface</color>
+    <color name="dynamicSurfaceBright">?attr/colorSurfaceBright</color>
+    <color name="grey">#3A393A</color>
+    <color name="half_light_grey">#E3E3E3</color>
+    <color name="ic_launcher_background">#D73DDC</color>
+    <color name="light_grey">#F5F5F5</color>
+    <color name="light_grey_bg">#F5F5F5</color>
+    <color name="light_on_primary">#FFFFFF</color>
+    <color name="lighter_transparent">#40000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="maxElevation">30dp</dimen>
+    <string name="_0">0</string>
+    <string name="about">Hi, I\'m an Indie developer, and I\'m trying to make the best apps I possibly can</string>
+    <string name="account">Account</string>
+    <string name="amount_of_collected_quotes">Amount of Collected Quotes</string>
+    <string name="amount_of_created_quotes">Amount of Created Quotes</string>
+    <string name="android_studio">
+        <a href="https://developer.android.com/studio">Android Studio</a>
+    </string>
+    <string name="app_name">myQuotes</string>
+    <string name="collections">Collections</string>
+    <string name="create">Create</string>
+    <string name="default_web_client_id" translatable="false">786019555929-7r5mdk9d0qraej1nsssoklbm9484lao4.apps.googleusercontent.com</string>
+    <string name="delete_account_message">This will delete all of your Quotes, Collections, and every other Data that is
+        Stored
+    </string>
+    <string name="delete_quote_disclaimer">The quote will always stay in private collections of other users, but it will
+        be deleted in all discover feeds from now on
+    </string>
+    <string name="explore">Explore</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="firebase">
+        <a href="https://firebase.google.com/">Firebase</a>
+    </string>
+    <string name="firebase_database_url" translatable="false">https://quotes-30510-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">786019555929</string>
+    <string name="github">This is an open source app, so you can find the apps code on my
+        <a href="https://github.com/PuckyEU/Quotes">Github page</a>
+    </string>
+    <string name="google_api_key" translatable="false">AIzaSyDGrZSp8cBWpZSCLRHKVCoFm9fvgDrJgiI</string>
+    <string name="google_app_id" translatable="false">1:786019555929:android:a125406b113deb288daf48</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGrZSp8cBWpZSCLRHKVCoFm9fvgDrJgiI</string>
+    <string name="google_storage_bucket" translatable="false">quotes-30510.appspot.com</string>
+    <string name="greeting">Hello!</string>
+    <string name="home">Home</string>
+    <string name="minus_myquotes">- myQuotes</string>
+    <string name="no_quote_yet_create_one_now">No quote yet. Create one now!</string>
+    <string name="privacy_policy">
+        <a href="https://github.com/PuckyEU/Quotes/blob/master/PrivacyPolicy.md">Privacy Policy</a>
+    </string>
+    <string name="project_id" translatable="false">quotes-30510</string>
+    <string name="quote_source_info">The quotes that are provided by \@myQuotes are fetched from <a href="https://www.goodreads.com/quotes">goodreads.com</a>, so if you like any of them, you should definitely
+        check them out
+    </string>
+    <string name="search_hint">Type "a:" to search Authors and "q:" to search Quotes</string>
+    <string name="swipe_reveal_layout">
+        <a href="https://github.com/FarhamHosseini/SwipeRevealLayout">Swipe Reveal Layout</a>
+    </string>
+    <string name="tools_used">Tools used to create this app:</string>
+    <string name="use_dynamic_color">Use Dynamic Color</string>
+    <string name="user_data_info">This shows you all the data stored in the database about you. For more info about
+        how is data being stored, visit my
+        <a href="https://github.com/PuckyEU/Quotes#what-data-is-being-stored">Github page</a>
+    </string>
+    <string name="your_random_quote">Your Random Quote</string>
+    <style name="Button">
+        <item name="android:background">@drawable/button_round_corners</item>
+        <item name="android:foregroundTint">@color/white</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/dark_grey</item>
+    </style>
+    <style name="Theme.Quotes" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/dark_grey</item>
+        <item name="colorPrimaryVariant">@color/dark_grey</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/dark_grey</item>
+        <item name="colorSecondaryVariant">@color/dark_grey</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorSurface</item>
+        <item name="android:navigationBarColor">@color/light_grey</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="ThemeOverlay.App.BottomNavigationView" parent="">
+        <item name="colorOnSurfaceVariant">@color/black</item>
+        <item name="colorOnSecondaryContainer">@color/black</item>
+        <item name="colorSecondaryContainer">@color/half_light_grey</item>
+    </style>
+    <style name="background">
+        <item name="android:background">@color/light_grey_bg</item>
+    </style>
+    <style name="bottomNavigation" parent="Widget.Material3.BottomNavigationView">
+        <item name="android:background">@color/light_grey</item>
+        <item name="android:foregroundTint">@color/black</item>
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.BottomNavigationView</item>
+    </style>
+    <style name="elevatedBackground">
+        <item name="android:background">@color/light_grey</item>
+    </style>
+    <style name="text">
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="transparentButton" parent="@style/Widget.Material3.Button">
+        <item name="android:background">@drawable/button_round_corners</item>
+        <item name="backgroundTint">@color/transparent</item>
+        <item name="elevation">0dp</item>
+        <item name="android:foregroundTint">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

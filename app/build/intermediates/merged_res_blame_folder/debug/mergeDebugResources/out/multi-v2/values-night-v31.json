@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sforge.quotes.app-mergeDebugResources-47:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adity\\Downloads\\Quotes-master\\Quotes-master\\app\\src\\main\\res\\values-night-v31\\themes.xml",
+                    "from": {
+                        "startLines": "17,2,36,13,40,32,24",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "742,55,1567,644,1677,1465,1069",
+                        "endLines": "22,11,38,15,42,34,30",
+                        "endColumns": "12,12,12,12,12,12,12",
+                        "endOffsets": "1063,638,1671,736,1795,1561,1459"
+                    },
+                    "to": {
+                        "startLines": "2,8,18,21,24,27,30",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,381,969,1078,1175,1298,1399",
+                        "endLines": "7,17,20,23,26,29,36",
+                        "endColumns": "12,12,12,12,12,12,12",
+                        "endOffsets": "376,964,1073,1170,1293,1394,1789"
+                    }
+                }
+            ]
+        }
+    ]
+}

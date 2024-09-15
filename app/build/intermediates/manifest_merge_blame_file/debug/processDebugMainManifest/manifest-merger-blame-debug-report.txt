@@ -1,0 +1,439 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sforge.quotes"
+4    android:versionCode="12"
+5    android:versionName="1.2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <queries>
+11-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:3:5-8:15
+12        <intent>
+12-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:4:9-7:18
+13            <action android:name="android.intent.action.VIEW" />
+13-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:13-65
+13-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:21-62
+14
+15            <data android:scheme="https" />
+15-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:13-44
+15-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:19-41
+16        </intent>
+17    </queries>
+18
+19    <uses-permission android:name="android.permission.INTERNET" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+19-->[com.firebaseui:firebase-ui-database:8.0.1] C:\Users\adity\.gradle\caches\transforms-4\67e92b7740af5820a8822ec7d3784bfc\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:9:5-67
+19-->[com.firebaseui:firebase-ui-database:8.0.1] C:\Users\adity\.gradle\caches\transforms-4\67e92b7740af5820a8822ec7d3784bfc\transformed\firebase-ui-database-8.0.1\AndroidManifest.xml:9:22-64
+20    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:25:5-79
+21-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:25:22-76
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+22-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:24:22-65
+23    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+23-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+23-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+24    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+24-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+24-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.sforge.quotes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.sforge.quotes.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:10:5-39:19
+33        android:name="com.sforge.quotes.myQuotesApplication"
+33-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:14:9-44
+34        android:allowBackup="true"
+34-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:11:9-35
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.9.0] C:\Users\adity\.gradle\caches\transforms-4\b9d268d403a6eace989c4cd4dd7161ac\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+36        android:debuggable="true"
+37        android:extractNativeLibs="false"
+38        android:icon="@mipmap/ic_launcher"
+38-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:12:9-43
+39        android:label="@string/app_name"
+39-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:13:9-41
+40        android:roundIcon="@mipmap/ic_launcher_round"
+40-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:15:9-54
+41        android:supportsRtl="true"
+41-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:16:9-35
+42        android:theme="@style/Theme.Quotes" >
+42-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:17:9-44
+43        <activity
+43-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:18:9-21:32
+44            android:name="com.sforge.quotes.activity.ForgottenPassword"
+44-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:19:13-55
+45            android:exported="false"
+45-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:20:13-37
+46            android:label="" />
+46-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:21:13-29
+47        <activity
+47-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:22:9-25:32
+48            android:name="com.sforge.quotes.activity.RegisterActivity"
+48-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:23:13-54
+49            android:exported="false"
+49-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:24:13-37
+50            android:label="" />
+50-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:25:13-29
+51        <activity
+51-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:26:9-29:32
+52            android:name="com.sforge.quotes.activity.LoginActivity"
+52-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:27:13-51
+53            android:exported="false"
+53-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:28:13-37
+54            android:label="" />
+54-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:29:13-29
+55        <activity
+55-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:30:9-38:20
+56            android:name="com.sforge.quotes.activity.MainActivity"
+56-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:31:13-50
+57            android:exported="true" >
+57-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:32:13-36
+58            <intent-filter>
+58-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:33:13-37:29
+59                <action android:name="android.intent.action.MAIN" />
+59-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:34:17-69
+59-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:34:25-66
+60
+61                <category android:name="android.intent.category.LAUNCHER" />
+61-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:36:17-77
+61-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:36:27-74
+62            </intent-filter>
+63        </activity>
+64
+65        <service
+65-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:29:9-35:19
+66            android:name="com.google.firebase.components.ComponentDiscoveryService"
+66-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:30:13-84
+67            android:directBootAware="true"
+67-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+68            android:exported="false" >
+68-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:31:13-37
+69            <meta-data
+69-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:32:13-34:85
+70                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+70-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:33:17-109
+71                android:value="com.google.firebase.components.ComponentRegistrar" />
+71-->[com.google.firebase:firebase-database:20.0.5] C:\Users\adity\.gradle\caches\transforms-4\ad55b95dbc2a4406fde9647ab2577bc4\transformed\firebase-database-20.0.5\AndroidManifest.xml:34:17-82
+72            <meta-data
+72-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:14:13-16:85
+73                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfKtxRegistrar"
+73-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:15:17-112
+74                android:value="com.google.firebase.components.ComponentRegistrar" />
+74-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:16:17-82
+75            <meta-data
+75-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:17:13-19:85
+76                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+76-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:18:17-109
+77                android:value="com.google.firebase.components.ComponentRegistrar" />
+77-->[com.google.firebase:firebase-perf:20.5.1] C:\Users\adity\.gradle\caches\transforms-4\5ec91617b0182e7bbe012fb8a6dbed37\transformed\firebase-perf-20.5.1\AndroidManifest.xml:19:17-82
+78            <meta-data
+78-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:67:13-69:85
+79                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+79-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:68:17-109
+80                android:value="com.google.firebase.components.ComponentRegistrar" />
+80-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:69:17-82
+81            <meta-data
+81-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:29:13-31:85
+82                android:name="com.google.firebase.components:com.google.firebase.sessions.FirebaseSessionsRegistrar"
+82-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:30:17-117
+83                android:value="com.google.firebase.components.ComponentRegistrar" />
+83-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:31:17-82
+84            <meta-data
+84-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\adity\.gradle\caches\transforms-4\4a8f94e29b5d89ee63ee37af6d9d7aad\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:27:13-29:85
+85                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+85-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\adity\.gradle\caches\transforms-4\4a8f94e29b5d89ee63ee37af6d9d7aad\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:28:17-115
+86                android:value="com.google.firebase.components.ComponentRegistrar" />
+86-->[com.google.firebase:firebase-datatransport:18.1.8] C:\Users\adity\.gradle\caches\transforms-4\4a8f94e29b5d89ee63ee37af6d9d7aad\transformed\firebase-datatransport-18.1.8\AndroidManifest.xml:29:17-82
+87            <meta-data
+87-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:29:13-31:85
+88                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.FirebaseRemoteConfigKtxRegistrar"
+88-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:30:17-128
+89                android:value="com.google.firebase.components.ComponentRegistrar" />
+89-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:31:17-82
+90            <meta-data
+90-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:32:13-34:85
+91                android:name="com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar"
+91-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:33:17-117
+92                android:value="com.google.firebase.components.ComponentRegistrar" />
+92-->[com.google.firebase:firebase-config:21.5.0] C:\Users\adity\.gradle\caches\transforms-4\60bb352d55bfee5edd5a4f0859f97534\transformed\firebase-config-21.5.0\AndroidManifest.xml:34:17-82
+93            <meta-data
+93-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+94                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+94-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+95                android:value="com.google.firebase.components.ComponentRegistrar" />
+95-->[com.google.android.gms:play-services-measurement-api:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\36b94546766442720c7d04d7be031aa0\transformed\play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+96            <meta-data
+96-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:15:13-17:85
+97                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+97-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:16:17-130
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:17:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:18:13-20:85
+100                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+100-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:19:17-127
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-installations:17.2.0] C:\Users\adity\.gradle\caches\transforms-4\247cba9ac425b046e5cd0daa000eec31\transformed\firebase-installations-17.2.0\AndroidManifest.xml:20:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\191de974b467fcbfcb73d5cc1a750991\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+103                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+103-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\191de974b467fcbfcb73d5cc1a750991\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\191de974b467fcbfcb73d5cc1a750991\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+106                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+106-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+108            <meta-data
+108-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\adity\.gradle\caches\transforms-4\69f4ba72ad21e38c6d1153fe49669781\transformed\firebase-abt-21.1.1\AndroidManifest.xml:12:13-14:85
+109                android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
+109-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\adity\.gradle\caches\transforms-4\69f4ba72ad21e38c6d1153fe49669781\transformed\firebase-abt-21.1.1\AndroidManifest.xml:13:17-109
+110                android:value="com.google.firebase.components.ComponentRegistrar" />
+110-->[com.google.firebase:firebase-abt:21.1.1] C:\Users\adity\.gradle\caches\transforms-4\69f4ba72ad21e38c6d1153fe49669781\transformed\firebase-abt-21.1.1\AndroidManifest.xml:14:17-82
+111        </service>
+112
+113        <activity
+113-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:27:9-44:20
+114            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+114-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:28:13-80
+115            android:excludeFromRecents="true"
+115-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:29:13-46
+116            android:exported="true"
+116-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:30:13-36
+117            android:launchMode="singleTask"
+117-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:31:13-44
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+118-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:32:13-72
+119            <intent-filter>
+119-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:33:13-43:29
+120                <action android:name="android.intent.action.VIEW" />
+120-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:13-65
+120-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:21-62
+121
+122                <category android:name="android.intent.category.DEFAULT" />
+122-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+122-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+123                <category android:name="android.intent.category.BROWSABLE" />
+123-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+123-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+124
+125                <data
+125-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:13-44
+126                    android:host="firebase.auth"
+127                    android:path="/"
+128                    android:scheme="genericidp" />
+128-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:19-41
+129            </intent-filter>
+130        </activity>
+131        <activity
+131-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:45:9-62:20
+132            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+132-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:46:13-79
+133            android:excludeFromRecents="true"
+133-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:47:13-46
+134            android:exported="true"
+134-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:48:13-36
+135            android:launchMode="singleTask"
+135-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:49:13-44
+136            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+136-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:50:13-72
+137            <intent-filter>
+137-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:51:13-61:29
+138                <action android:name="android.intent.action.VIEW" />
+138-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:13-65
+138-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:5:21-62
+139
+140                <category android:name="android.intent.category.DEFAULT" />
+140-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:17-76
+140-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:36:27-73
+141                <category android:name="android.intent.category.BROWSABLE" />
+141-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:17-78
+141-->[com.google.firebase:firebase-auth:21.0.8] C:\Users\adity\.gradle\caches\transforms-4\aed7f3a29bffe880bd86e945827e024b\transformed\firebase-auth-21.0.8\AndroidManifest.xml:37:27-75
+142
+143                <data
+143-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:13-44
+144                    android:host="firebase.auth"
+145                    android:path="/"
+146                    android:scheme="recaptcha" />
+146-->C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\src\main\AndroidManifest.xml:6:19-41
+147            </intent-filter>
+148        </activity>
+149
+150        <service
+150-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:22:9-25:40
+151            android:name="com.google.firebase.sessions.SessionLifecycleService"
+151-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:23:13-80
+152            android:enabled="true"
+152-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:24:13-35
+153            android:exported="false" />
+153-->[com.google.firebase:firebase-sessions:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c6ba605bb2229c86eef336c0ff825fb\transformed\firebase-sessions-1.2.0\AndroidManifest.xml:25:13-37
+154        <service
+154-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:28:9-34:19
+155            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+155-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:29:13-103
+156            android:exported="false" >
+156-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:30:13-37
+157            <meta-data
+157-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:31:13-33:39
+158                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+158-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:32:17-94
+159                android:value="cct" />
+159-->[com.google.android.datatransport:transport-backend-cct:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\a63675d07b77de8012c6aff007547011\transformed\transport-backend-cct-3.1.9\AndroidManifest.xml:33:17-36
+160        </service>
+161        <service
+161-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:26:9-30:19
+162            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+162-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:27:13-117
+163            android:exported="false"
+163-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:28:13-37
+164            android:permission="android.permission.BIND_JOB_SERVICE" >
+164-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:29:13-69
+165        </service>
+166
+167        <receiver
+167-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:32:9-34:40
+168            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+168-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:33:13-132
+169            android:exported="false" />
+169-->[com.google.android.datatransport:transport-runtime:3.1.9] C:\Users\adity\.gradle\caches\transforms-4\60714838d407e3abffc7364155ffbbb6\transformed\transport-runtime-3.1.9\AndroidManifest.xml:34:13-37
+170
+171        <provider
+171-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+172            android:name="com.google.firebase.provider.FirebaseInitProvider"
+172-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+173            android:authorities="com.sforge.quotes.firebaseinitprovider"
+173-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+174            android:directBootAware="true"
+174-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+175            android:exported="false"
+175-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+176            android:initOrder="100" />
+176-->[com.google.firebase:firebase-common:20.4.2] C:\Users\adity\.gradle\caches\transforms-4\1308a7468caa0d021665a057fce4b6f0\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+177
+178        <receiver
+178-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+179            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+179-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+180            android:enabled="true"
+180-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+181            android:exported="false" >
+181-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+182        </receiver>
+183
+184        <service
+184-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+185            android:name="com.google.android.gms.measurement.AppMeasurementService"
+185-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+186            android:enabled="true"
+186-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+187            android:exported="false" />
+187-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+188        <service
+188-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+189            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+189-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+190            android:enabled="true"
+190-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+191            android:exported="false"
+191-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+192            android:permission="android.permission.BIND_JOB_SERVICE" />
+192-->[com.google.android.gms:play-services-measurement:21.0.0] C:\Users\adity\.gradle\caches\transforms-4\085d12a09d73f7028e736ff35dba6ad1\transformed\play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+193
+194        <activity
+194-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\adity\.gradle\caches\transforms-4\490383b99e5f1f586ed680322087a325\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+195            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+195-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\adity\.gradle\caches\transforms-4\490383b99e5f1f586ed680322087a325\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+196            android:exported="false"
+196-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\adity\.gradle\caches\transforms-4\490383b99e5f1f586ed680322087a325\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+197            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+197-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\adity\.gradle\caches\transforms-4\490383b99e5f1f586ed680322087a325\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+198
+199        <provider
+199-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+200            android:name="androidx.startup.InitializationProvider"
+200-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+201            android:authorities="com.sforge.quotes.androidx-startup"
+201-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+202            android:exported="false" >
+202-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+203            <meta-data
+203-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+204                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+204-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+205                android:value="androidx.startup" />
+205-->[androidx.emoji2:emoji2:1.2.0] C:\Users\adity\.gradle\caches\transforms-4\1c4e6ca76047b4d25e320d271062245b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+206            <meta-data
+206-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\adity\.gradle\caches\transforms-4\a82b62cdbc890f8809898b51b60e9f5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+207                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+207-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\adity\.gradle\caches\transforms-4\a82b62cdbc890f8809898b51b60e9f5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+208                android:value="androidx.startup" />
+208-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\adity\.gradle\caches\transforms-4\a82b62cdbc890f8809898b51b60e9f5a\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+209            <meta-data
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+210                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+210-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+211                android:value="androidx.startup" />
+211-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+212        </provider>
+213
+214        <meta-data
+214-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\adity\.gradle\caches\transforms-4\330707af8a8ac1852621ea63dc8c338f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+215            android:name="com.google.android.gms.version"
+215-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\adity\.gradle\caches\transforms-4\330707af8a8ac1852621ea63dc8c338f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+216            android:value="@integer/google_play_services_version" />
+216-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\adity\.gradle\caches\transforms-4\330707af8a8ac1852621ea63dc8c338f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+217
+218        <receiver
+218-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+219            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+219-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+220            android:directBootAware="false"
+220-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+221            android:enabled="true"
+221-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+222            android:exported="true"
+222-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+223            android:permission="android.permission.DUMP" >
+223-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+224            <intent-filter>
+224-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+225                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+225-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+226            </intent-filter>
+227            <intent-filter>
+227-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+228                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+228-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+229            </intent-filter>
+230            <intent-filter>
+230-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+231                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+231-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+232            </intent-filter>
+233            <intent-filter>
+233-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+234                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+234-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+234-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\adity\.gradle\caches\transforms-4\0fdf5f1d41738602f50ae525874241b9\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+235            </intent-filter>
+236        </receiver>
+237    </application>
+238
+239</manifest>

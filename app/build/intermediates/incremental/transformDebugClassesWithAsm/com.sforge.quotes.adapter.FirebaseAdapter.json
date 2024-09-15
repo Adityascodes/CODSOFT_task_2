@@ -1,0 +1,1 @@
+{"className":"com.sforge.quotes.adapter.FirebaseAdapter","classAnnotations":[],"interfaces":["androidx.lifecycle.LifecycleObserver"],"superClasses":["com.firebase.ui.database.paging.FirebaseRecyclerPagingAdapter","androidx.paging.PagingDataAdapter","androidx.recyclerview.widget.RecyclerView$Adapter","java.lang.Object"]}

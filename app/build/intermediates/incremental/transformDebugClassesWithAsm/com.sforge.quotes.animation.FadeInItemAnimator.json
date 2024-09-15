@@ -1,0 +1,1 @@
+{"className":"com.sforge.quotes.animation.FadeInItemAnimator","classAnnotations":[],"interfaces":[],"superClasses":["androidx.recyclerview.widget.DefaultItemAnimator","androidx.recyclerview.widget.SimpleItemAnimator","androidx.recyclerview.widget.RecyclerView$ItemAnimator","java.lang.Object"]}

@@ -1,0 +1,1 @@
+{"className":"com.sforge.quotes.repository.UserCollectionRepository","classAnnotations":[],"interfaces":[],"superClasses":["com.sforge.quotes.repository.CrudRepository","java.lang.Object"]}

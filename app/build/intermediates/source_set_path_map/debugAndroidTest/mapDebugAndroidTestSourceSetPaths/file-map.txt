@@ -1,0 +1,6 @@
+com.sforge.quotes.test.app-core-1.5.0-0 C:\Users\adity\.gradle\caches\transforms-4\ba68ebebb19fe82c8daa4329aab9be49\transformed\core-1.5.0\res
+com.sforge.quotes.test.app-annotation-experimental-1.3.0-1 C:\Users\adity\.gradle\caches\transforms-4\d1929f8a137bb99a3bffef7a91527ec2\transformed\annotation-experimental-1.3.0\res
+com.sforge.quotes.test.app-androidTest-2 C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\build\generated\res\resValues\androidTest\debug
+com.sforge.quotes.test.app-mergeDebugAndroidTestResources-3 C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.sforge.quotes.test.app-mergeDebugAndroidTestResources-4 C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.sforge.quotes.test.app-debugAndroidTest-5 C:\Users\adity\Downloads\Quotes-master\Quotes-master\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
