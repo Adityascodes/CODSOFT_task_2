@@ -49,7 +49,7 @@ public class LoginActivity extends AppCompatActivity {
         String password = passwordEditText.getText().toString().trim();
 
         if (email.isEmpty()){
-            emailEditText.setError("Email is required!");
+            emailEditText.setError("Email is Required!");
             emailEditText.requestFocus();
             return;
         }
